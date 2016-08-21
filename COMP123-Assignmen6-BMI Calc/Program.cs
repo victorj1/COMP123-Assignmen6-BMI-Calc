@@ -8,6 +8,8 @@ namespace COMP123_Assignmen6_BMI_Calc
 {
     static class Program
     {
+       
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
